@@ -14,6 +14,7 @@ block application {}
 block provider {}
 block usecase {}
 block workflow {}
+block secret {}
 `
 
 export const FileCore = `
